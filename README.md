@@ -40,3 +40,5 @@ docker push vitalets/docker-stack-wait-deploy
 * [docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait)
 * [sure-deploy](https://github.com/issuu/sure-deploy)
 
+## License
+MIT @ [Vitaliy Potapov](https://github.com/vitalets)

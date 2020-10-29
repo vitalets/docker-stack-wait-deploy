@@ -5,7 +5,7 @@
 
 stack_name=$1
 
-while True; do
+while true; do
   all_services_done=1
   has_errors=0
   updatable_output=""
